@@ -1,5 +1,3 @@
-<img width="1212" height="912" alt="ภาพถ่ายหน้าจอ 2569-10-02 เวลา 15 38 10" src="https://github.com/user-attachments/assets/eac66fd9-ebcd-47bb-9708-403bd088b7f2" /><img width="1146" height="846" alt="ภาพถ่ายหน้าจอ 2569-10-02 เวลา 15 37 45" src="https://github.com/user-attachments/assets/262ad9a9-d8be-4ecc-8542-a651a6e1dbb0" /><img width="1212" height="912" alt="ภาพถ่ายหน้าจอ 2569-10-02 เวลา 15 37 57" src="https://github.com/user-attachments/assets/155ebdd3-621c-48a2-93ab-412e31a2dcc5" /># ใบงานปฏิบัติสัปดาห์ที่ 7: Google AI Studio & Gemini API Integration
-
 **วิชา** การพัฒนาซอฟต์แวร์สำหรับอุปกรณ์เคลื่อนที่ | **เครื่องมือ** Flutter, http package, image_picker, Google AI Studio, Gemini API
 
 ---
