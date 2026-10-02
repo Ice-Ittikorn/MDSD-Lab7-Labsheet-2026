@@ -514,6 +514,11 @@ flutter run
 
 <img width="1238" height="534" alt="image" src="https://github.com/user-attachments/assets/1a50c51c-2d39-4681-9a75-eb48078aab6a" />
 
+```
+ 1.1 โมเดลอาจใส่ข้อความอื่นปน หรือครอบด้วย markdown ได้ ส่วน 1.2 ได้ JSON ล้วนทุกครั้ง
+ 1.1 โมเดลอาจตั้งชื่อหรือจัดโครงสร้างเพี้ยนไปได้ ส่วน 1.2 ต้องเป็น title, category, description ตาม Schema เสมอ
+ 1.1 ไม่มีการตรวจชนิดข้อมูล ส่วน 1.2 ระบบรับประกันว่าทุก field เป็น String
+```
 
 ---
 
