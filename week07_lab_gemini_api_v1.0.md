@@ -540,12 +540,12 @@ flutter run
 
 เพิ่มปุ่มทดสอบชั่วคราวในหน้าใดก็ได้ของแอป ที่เรียก `GeminiService().generateText('ช่วยแต่งประโยคทักทายลูกค้าร้านค้าออนไลน์แบบเป็นกันเอง')` แล้วแสดงผลลัพธ์ด้วย `SnackBar` และ `print()` ใน Debug Console (ดูตัวอย่างจาก ขั้นตอนที่ 3.1 ของใบงาน 6)
 
+<img width="1312" height="918" alt="ภาพถ่ายหน้าจอ 2569-10-02 เวลา 14 43 23" src="https://github.com/user-attachments/assets/ac8869f2-0f76-45ab-8544-e7d2c0b4ea88" />
 
 > ✅ **Checkpoint 2.1** รันแอปด้วยคำสั่ง `flutter run --dart-define=GEMINI_API_KEY=your_key` ถ่ายภาพหน้าจอ Debug Console และหน้า SnackBar ที่แสดงข้อความคำตอบจาก Gemini และอธิบายด้านล่าง ว่า `.timeout()` ที่ตั้งไว้กับ Gemini API (20 วินาที) ต่างจากที่ตั้งไว้กับ OpenWeather API ในสัปดาห์ที่แล้ว (10 วินาที) อย่างไร และทำไมจึงต่างกัน (อ้างอิงบทหนังสือเรียนหัวข้อ 7.3)
 
-```text
-บันทึกผลลัพธ์ที่นี่
-```
+<img width="1151" height="222" alt="image" src="https://github.com/user-attachments/assets/00bd6f89-2cb0-4307-bdd4-b500dcb1dd3b" />
+
 
 ---
 
